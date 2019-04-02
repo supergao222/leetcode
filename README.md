@@ -15,6 +15,7 @@
 * [135.分发糖果](https://github.com/supergao222/leetcode/blob/master/135.md)
 * [189.旋转数组](https://github.com/supergao222/leetcode/blob/master/189.md)
 * [190.颠倒二进制位](https://github.com/supergao222/leetcode/blob/master/190.md)
+* [472.连接词](https://github.com/supergao222/leetcode/blob/master/472.md)
 * [514.自由之路](https://github.com/supergao222/leetcode/blob/master/514.md)
 * [675.为高尔夫比赛砍树](https://github.com/supergao222/leetcode/blob/master/675.md)
 * [726.原子的数量](https://github.com/supergao222/leetcode/blob/master/726.md)
