@@ -8,6 +8,7 @@
 * [26.删除排序数组中的重复项](https://github.com/supergao222/leetcode/blob/master/26.md)
 * [37.解数独](https://github.com/supergao222/leetcode/blob/master/37.md)
 * [42.接雨水](https://github.com/supergao222/leetcode/blob/master/42.md)
+* [51.N皇后](https://leetcode-cn.com/problems/n-queens/)
 * [61.旋转链表](https://github.com/supergao222/leetcode/blob/master/61.md)
 * [70.爬楼梯](https://github.com/supergao222/leetcode/blob/master/70.md)
 * [87.扰乱字符串](https://github.com/supergao222/leetcode/blob/master/87.md)
