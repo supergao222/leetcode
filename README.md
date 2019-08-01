@@ -14,6 +14,7 @@
 * [68.文本左右对齐](https://github.com/supergao222/leetcode/blob/master/68.md)
 * [70.爬楼梯](https://github.com/supergao222/leetcode/blob/master/70.md)
 * [72.编辑距离](https://github.com/supergao222/leetcode/blob/master/72.md)
+* [76.最小覆盖子串](https://github.com/supergao222/leetcode/blob/master/76.md)
 * [87.扰乱字符串](https://github.com/supergao222/leetcode/blob/master/87.md)
 * [97.交错字符串](https://github.com/supergao222/leetcode/blob/master/97.md)
 * [135.分发糖果](https://github.com/supergao222/leetcode/blob/master/135.md)
