@@ -7,6 +7,7 @@
 * [22.括号生成](https://github.com/supergao222/leetcode/blob/master/22.md)
 * [26.删除排序数组中的重复项](https://github.com/supergao222/leetcode/blob/master/26.md)
 * [37.解数独](https://github.com/supergao222/leetcode/blob/master/37.md)
+* [41.缺失的第一个正数](https://github.com/supergao222/leetcode/blob/master/41.md)
 * [42.接雨水](https://github.com/supergao222/leetcode/blob/master/42.md)
 * [51.N皇后](https://github.com/supergao222/leetcode/blob/master/51.md)
 * [52.N皇后 II](https://github.com/supergao222/leetcode/blob/master/52.md)
