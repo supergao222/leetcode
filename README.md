@@ -20,6 +20,7 @@
 * [76.最小覆盖子串](https://github.com/supergao222/leetcode/blob/master/76.md)
 * [87.扰乱字符串](https://github.com/supergao222/leetcode/blob/master/87.md)
 * [97.交错字符串](https://github.com/supergao222/leetcode/blob/master/97.md)
+* [106.从中序与后序遍历序列构造二叉树](https://github.com/supergao222/leetcode/blob/master/106.md)
 * [135.分发糖果](https://github.com/supergao222/leetcode/blob/master/135.md)
 * [140.单词拆分II](https://github.com/supergao222/leetcode/blob/master/140.md)
 * [189.旋转数组](https://github.com/supergao222/leetcode/blob/master/189.md)
