@@ -13,6 +13,7 @@
 * [42.接雨水](https://github.com/supergao222/leetcode/blob/master/42.md)
 * [51.N皇后](https://github.com/supergao222/leetcode/blob/master/51.md)
 * [52.N皇后 II](https://github.com/supergao222/leetcode/blob/master/52.md)
+* [55.跳跃游戏](https://github.com/supergao222/leetcode/blob/master/55.md)
 * [61.旋转链表](https://github.com/supergao222/leetcode/blob/master/61.md)
 * [68.文本左右对齐](https://github.com/supergao222/leetcode/blob/master/68.md)
 * [70.爬楼梯](https://github.com/supergao222/leetcode/blob/master/70.md)
