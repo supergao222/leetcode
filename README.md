@@ -24,6 +24,7 @@
 * [106.从中序与后序遍历序列构造二叉树](https://github.com/supergao222/leetcode/blob/master/106.md)
 * [135.分发糖果](https://github.com/supergao222/leetcode/blob/master/135.md)
 * [140.单词拆分II](https://github.com/supergao222/leetcode/blob/master/140.md)
+* [169.多数元素](https://github.com/supergao222/leetcode/blob/master/169.md)
 * [189.旋转数组](https://github.com/supergao222/leetcode/blob/master/189.md)
 * [190.颠倒二进制位](https://github.com/supergao222/leetcode/blob/master/190.md)
 * [206.反转链表](https://github.com/supergao222/leetcode/blob/master/206.md)
