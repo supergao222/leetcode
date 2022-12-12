@@ -7,6 +7,7 @@
 * [15.三数之和](https://github.com/supergao222/leetcode/blob/master/15.md)
 * [16.最接近的三数之和](https://github.com/supergao222/leetcode/blob/master/16.md)
 * [22.括号生成](https://github.com/supergao222/leetcode/blob/master/22.md)
+* [23.合并K个升序链表](https://github.com/supergao222/leetcode/blob/master/23.md)
 * [33.搜索旋转排序数组](https://github.com/supergao222/leetcode/blob/master/33.md)
 * [26.删除排序数组中的重复项](https://github.com/supergao222/leetcode/blob/master/26.md)
 * [37.解数独](https://github.com/supergao222/leetcode/blob/master/37.md)
